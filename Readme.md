@@ -25,7 +25,7 @@ To implement series labels customization, enable series labels (set the [Ser
 
 * [Series Point Labels](https://docs.devexpress.com/WPF/6341/controls-and-libraries/charts-suite/chart-control/series/series-point-labels)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-implement-a-custom-template-for-series-labels&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-implement-a-custom-template-for-series-labels&~~~was_helpful=no)
 
