@@ -19,7 +19,7 @@ To accomplish this, it is necessary to create a [System.Windows.DataTemplate](ht
 
 To provide series labels customization, enable series labels (set the [Series.LabelsVisibility](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.Series.LabelsVisibility?p=netframework) property to **true**). If you wish, you can disable the crosshair cursor (set the [ChartControl.CrosshairEnabled](https://docs.devexpress.com/WPF/DevExpress.Xpf.Charts.ChartControlBase.CrosshairEnabled?p=netframework) property to **false**).
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-implement-a-custom-template-for-series-labels&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-implement-a-custom-template-for-series-labels&~~~was_helpful=no)
 
